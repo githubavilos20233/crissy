@@ -137,14 +137,12 @@ export default function App() {
                 Requeasy
               </span>{" "}
               This web app helps the people of Barangay San Jose easily request
-              official documents online. It has simple sections about the
-              barangay, the services offered, important contacts, and how to
-              reach them. Users can quickly choose and request documents like
-              Barangay Clearance, Certificate of Residency, and Business Permit
-              by clicking clear buttons. Made with React and Bootstrap, the app
-              has a fixed menu, smooth scrolling, and looks good on all devices.
-              It makes asking for documents faster and easier for everyone in
-              the community.
+              official documents online. Users can quickly choose and request
+              documents like Barangay Clearance, Certificate of Residency, and
+              Business Permit by clicking clear buttons. Made with React and
+              Bootstrap, the app has a fixed menu, smooth scrolling, and looks
+              good on all devices. It makes asking for documents faster and
+              easier for everyone in the community.
             </p>
           </div>
         </section>
