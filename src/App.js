@@ -114,6 +114,7 @@ export default function App() {
 
         <section ref={projectsRef} className="projects-section">
           <h2>Project</h2>
+          <h3>REQUEASY</h3>
           <a
             href="https://requeasy.netlify.app/"
             target="_blank"
