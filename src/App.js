@@ -2,7 +2,7 @@ import React, { useRef, useState, useEffect } from "react";
 import Typewriter from "./Typewriter"; // import the new component
 import "./App.css";
 import requeasyPreview from "./img/requeasy.png";
-import { FaLinkedin, FaEnvelope, FaPhone } from "react-icons/fa";
+import { FaLinkedin, FaEnvelope, FaPhone, FaFilePdf } from "react-icons/fa";
 
 export default function App() {
   const [menuActive, setMenuActive] = useState(false);
@@ -101,8 +101,14 @@ export default function App() {
             mentorship.
           </p>
 
-          <a href="/img/RESUME.pdf" download class="resume-download">
-            Download Resume (PDF)
+          <a
+            href="/RESUME.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="resume-download"
+          >
+            <FaFilePdf style={{ marginRight: "8px" }} />
+            View Resume
           </a>
         </section>
 
