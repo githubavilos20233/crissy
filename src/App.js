@@ -7,7 +7,6 @@ import { FaLinkedin, FaEnvelope, FaPhone } from "react-icons/fa";
 export default function App() {
   const [menuActive, setMenuActive] = useState(false);
   const homeRef = useRef(null);
-  const resumeRef = useRef(null);
   const projectsRef = useRef(null);
   const contactRef = useRef(null);
 
