@@ -91,7 +91,9 @@ export default function App() {
             className="profile-photo"
           />
           <p>Welcome to my personal space! Here's a little about me.</p>
-          <p style={{ textAlign: "justify", padding: "20px" }}>
+          <p
+            style={{ textAlign: "justify", padding: "20px", textIndent: "2em" }}
+          >
             I believe modern problems require modern solutions. I hold a
             Bachelor's degree in Information Systems, majoring in Business
             Analytics. I'm passionate about creating web applications and am
