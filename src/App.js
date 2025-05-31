@@ -60,7 +60,6 @@ export default function App() {
 
         <div className={`nav-buttons ${menuActive ? "active" : ""}`}>
           <button onClick={() => scrollToRef(homeRef)}>Home</button>
-          <button onClick={() => scrollToRef(resumeRef)}>Resume</button>
           <button onClick={() => scrollToRef(projectsRef)}>Projects</button>
           <button onClick={() => scrollToRef(contactRef)}>Contact</button>
         </div>
