@@ -154,7 +154,7 @@ export default function App() {
             christiansoliva91@gmail.com
           </p>
           <p>
-            <FaPhone className="contact-icon" /> Phone: 09503284027
+            <FaPhone className="contact-icon" /> Phone: +639503284027
           </p>
           <p>
             <FaLinkedin className="contact-icon" />
