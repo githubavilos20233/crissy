@@ -94,11 +94,11 @@ export default function App() {
           <p
             style={{ textAlign: "justify", padding: "20px", textIndent: "2em" }}
           >
-            I believe modern problems require modern solutions. I hold a
-            Bachelor's degree in Information Systems, majoring in Business
-            Analytics. I'm passionate about creating web applications and am
-            open to opportunities in data analytics, including career growth and
-            mentorship.
+            I believe modern problems require modern solutions. With a strong passion for creating innovative and efficient web applications, I aim to deliver systems that streamline organizational processes and enhance data management.
+
+Holding a Bachelor’s degree in Information Systems with a major in Business Analytics, I bring a blend of technical expertise and analytical insight. I am open to opportunities in web development and data analytics, particularly those offering career growth and mentorship.
+
+For me, web systems are not just tools—they are essential drivers for optimizing day-to-day operations and unlocking the full potential of data within any organization.
           </p>
 
           <a
