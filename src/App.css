@@ -15,7 +15,7 @@
 
 body {
   margin: 0;
-  font-family: "WDXL Lubrifont TC", Consolas, "Courier New", Courier, monospace;
+  font-family: 'Times New Roman', Times, serif;
   background-color: var(--bg-color);
   color: var(--text-secondary);
 }
@@ -39,7 +39,7 @@ h3 {
    FONT FAMILY UTILITIES
 =========================== */
 .wdxl-lubrifont-tc-regular {
-  font-family: "WDXL Lubrifont TC", sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   font-weight: 400;
   font-style: normal;
 }
